@@ -1,0 +1,11 @@
+# Freecad
+*.FCBak
+*.FCStd[0-9]
+*.FCStd[0-9][0-9]
+*.FCStd[0-9][0-9][0-9]
+*.FCStd[0-9][0-9][0-9][0-9]
+
+# Export types
+*.3mf
+*.stl
+*.ast
